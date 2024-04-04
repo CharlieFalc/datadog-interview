@@ -1,0 +1,773 @@
+{
+  "search_metadata": {
+    "id": "6608a24829d17774124316ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/953c69448ee5125c/6608a24829d17774124316ae.json",
+    "created_at": "2024-03-30 23:37:44 UTC",
+    "processed_at": "2024-03-30 23:37:44 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&q=Flights+to+CDG+from+JFK+on+2024-05-15+through+2024-05-24",
+    "raw_html_file": "https://serpapi.com/searches/953c69448ee5125c/6608a24829d17774124316ae.html",
+    "prettify_html_file": "https://serpapi.com/searches/953c69448ee5125c/6608a24829d17774124316ae.prettify",
+    "total_time_taken": 12.22
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "departure_id": "JFK",
+    "arrival_id": "CDG",
+    "outbound_date": "2024-05-15",
+    "return_date": "2024-05-24",
+    "currency": "USD"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 00:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-15 13:35"
+          },
+          "duration": 425,
+          "airplane": "Boeing 787",
+          "airline": "Norse Atlantic Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/N0.png",
+          "travel_class": "Economy",
+          "flight_number": "N0 302",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 426 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 425,
+      "carbon_emissions": {
+        "this_flight": 427000,
+        "typical_for_this_route": 464000,
+        "difference_percent": -8
+      },
+      "price": 710,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/N0.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ1ZPTURNd01ob0xDTGlxQkJBQ0dnTlZVMFE0SEhDNHFnUT0iLFtbIkpGSyIsIjIwMjQtMDUtMTUiLCJDREciLG51bGwsIk4wIiwiMzAyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 17:10"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 06:55"
+          },
+          "duration": 465,
+          "airplane": "Airbus A321neo",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 1407",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 554 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 465,
+      "carbon_emissions": {
+        "this_flight": 555000,
+        "typical_for_this_route": 464000,
+        "difference_percent": 20
+      },
+      "price": 864,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ1pDTmpFME1EY2FDd2pzb2dVUUFob0RWVk5FT0J4dzdLSUYiLFtbIkpGSyIsIjIwMjQtMDUtMTUiLCJDREciLG51bGwsIkI2IiwiMTQwNyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 17:33"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 06:55"
+          },
+          "duration": 442,
+          "airplane": "Boeing 777",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 44",
+          "ticket_also_sold_by": ["Iberia", "British Airways", "Finnair"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 464 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 442,
+      "carbon_emissions": {
+        "this_flight": 464000,
+        "typical_for_this_route": 464000,
+        "difference_percent": 0
+      },
+      "price": 935,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ1JCUVRRMEdnc0ludG9GRUFJYUExVlRSRGdjY0o3YUJRPT0iLFtbIkpGSyIsIjIwMjQtMDUtMTUiLCJDREciLG51bGwsIkFBIiwiNDQiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 17:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 06:45"
+          },
+          "duration": 435,
+          "airplane": "Airbus A350",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 3",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 318 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 435,
+      "carbon_emissions": {
+        "this_flight": 319000,
+        "typical_for_this_route": 464000,
+        "difference_percent": -31
+      },
+      "price": 939,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ05CUmpNYUN3aVEzUVVRQWhvRFZWTkVPQnh3a04wRiIsW1siSkZLIiwiMjAyNC0wNS0xNSIsIkNERyIsbnVsbCwiQUYiLCIzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 19:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 09:15"
+          },
+          "duration": 465,
+          "airplane": "Airbus A330",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 262",
+          "ticket_also_sold_by": ["Virgin Atlantic"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 400 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 465,
+      "carbon_emissions": {
+        "this_flight": 400000,
+        "typical_for_this_route": 464000,
+        "difference_percent": -14
+      },
+      "price": 939,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ1ZFVERJMk1ob0xDSkRkQlJBQ0dnTlZVMFE0SEhDUTNRVT0iLFtbIkpGSyIsIjIwMjQtMDUtMTUiLCJDREciLG51bGwsIkRMIiwiMjYyIl1dXQ=="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 18:20"
+          },
+          "arrival_airport": {
+            "name": "London Gatwick Airport",
+            "id": "LGW",
+            "time": "2024-05-16 06:20"
+          },
+          "duration": 420,
+          "airline": "Norse Atlantic UK",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/Z0.png",
+          "travel_class": "Economy",
+          "flight_number": "Z0 702",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 408 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "London Gatwick Airport",
+            "id": "LGW",
+            "time": "2024-05-16 08:00"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 10:20"
+          },
+          "duration": 80,
+          "airline": "easyJet",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/U2.png",
+          "travel_class": "Economy",
+          "flight_number": "U2 8403",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Carbon emissions estimate: 48 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 100,
+          "name": "London Gatwick Airport",
+          "id": "LGW"
+        }
+      ],
+      "total_duration": 600,
+      "carbon_emissions": {
+        "this_flight": 457000,
+        "typical_for_this_route": 464000,
+        "difference_percent": -2
+      },
+      "price": 761,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ3hhTURjd01ueFZNamcwTURNYUN3aUQwZ1FRQWhvRFZWTkVPQnh3ZzlJRSIsW1siSkZLIiwiMjAyNC0wNS0xNSIsIkxHVyIsbnVsbCwiWjAiLCI3MDIiXSxbIkxHVyIsIjIwMjQtMDUtMTYiLCJDREciLG51bGwsIlUyIiwiODQwMyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 20:25"
+          },
+          "arrival_airport": {
+            "name": "Keflavík International Airport",
+            "id": "KEF",
+            "time": "2024-05-16 06:15"
+          },
+          "duration": 350,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Icelandair",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FI.png",
+          "travel_class": "Economy",
+          "flight_number": "FI 614",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 297 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Keflavík International Airport",
+            "id": "KEF",
+            "time": "2024-05-16 07:35"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 13:00"
+          },
+          "duration": 205,
+          "airplane": "Boeing 767",
+          "airline": "Icelandair",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FI.png",
+          "travel_class": "Economy",
+          "flight_number": "FI 542",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 191 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 80,
+          "name": "Keflavík International Airport",
+          "id": "KEF"
+        }
+      ],
+      "total_duration": 635,
+      "carbon_emissions": {
+        "this_flight": 489000,
+        "typical_for_this_route": 464000,
+        "difference_percent": 5
+      },
+      "price": 841,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FI.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ3RHU1RZeE5IeEdTVFUwTWhvTENMU1FCUkFDR2dOVlUwUTRISEMwa0FVPSIsW1siSkZLIiwiMjAyNC0wNS0xNSIsIktFRiIsbnVsbCwiRkkiLCI2MTQiXSxbIktFRiIsIjIwMjQtMDUtMTYiLCJDREciLG51bGwsIkZJIiwiNTQyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 08:00"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-15 21:35"
+          },
+          "duration": 455,
+          "airplane": "Boeing 767",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 266",
+          "ticket_also_sold_by": ["Virgin Atlantic"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 355 kg"
+          ]
+        }
+      ],
+      "total_duration": 455,
+      "carbon_emissions": {
+        "this_flight": 356000,
+        "typical_for_this_route": 464000,
+        "difference_percent": -23
+      },
+      "price": 939,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ1ZFVERJMk5ob0xDSkRkQlJBQ0dnTlZVMFE0SEhDUTNRVT0iLFtbIkpGSyIsIjIwMjQtMDUtMTUiLCJDREciLG51bGwsIkRMIiwiMjY2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 16:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 05:55"
+          },
+          "duration": 445,
+          "airplane": "Boeing 777",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 1",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 467 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 445,
+      "carbon_emissions": {
+        "this_flight": 468000,
+        "typical_for_this_route": 464000,
+        "difference_percent": 1
+      },
+      "price": 939,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ05CUmpFYUN3aVEzUVVRQWhvRFZWTkVPQnh3a04wRiIsW1siSkZLIiwiMjAyNC0wNS0xNSIsIkNERyIsbnVsbCwiQUYiLCIxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 18:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 08:05"
+          },
+          "duration": 455,
+          "airplane": "Boeing 777",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 5",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 467 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 455,
+      "carbon_emissions": {
+        "this_flight": 468000,
+        "typical_for_this_route": 464000,
+        "difference_percent": 1
+      },
+      "price": 939,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ05CUmpVYUN3aVEzUVVRQWhvRFZWTkVPQnh3a04wRiIsW1siSkZLIiwiMjAyNC0wNS0xNSIsIkNERyIsbnVsbCwiQUYiLCI1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 23:15"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 12:40"
+          },
+          "duration": 445,
+          "airplane": "Boeing 777",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 9",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 467 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 445,
+      "carbon_emissions": {
+        "this_flight": 468000,
+        "typical_for_this_route": 464000,
+        "difference_percent": 1
+      },
+      "price": 939,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ05CUmprYUN3aVEzUVVRQWhvRFZWTkVPQnh3a04wRiIsW1siSkZLIiwiMjAyNC0wNS0xNSIsIkNERyIsbnVsbCwiQUYiLCI5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 21:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 11:05"
+          },
+          "duration": 455,
+          "airplane": "Boeing 777",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 7",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 467 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 455,
+      "carbon_emissions": {
+        "this_flight": 468000,
+        "typical_for_this_route": 464000,
+        "difference_percent": 1
+      },
+      "price": 1079,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ05CUmpjYUN3akF5Z1lRQWhvRFZWTkVPQnh3d01vRyIsW1siSkZLIiwiMjAyNC0wNS0xNSIsIkNERyIsbnVsbCwiQUYiLCI3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 22:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 12:10"
+          },
+          "duration": 460,
+          "airplane": "Airbus A330",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 264",
+          "ticket_also_sold_by": ["Virgin Atlantic"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 400 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 460,
+      "carbon_emissions": {
+        "this_flight": 400000,
+        "typical_for_this_route": 464000,
+        "difference_percent": -14
+      },
+      "price": 1079,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJV2pSYWRqUjNTR1poYlhkQlNtRTJabEZDUnkwdExTMHRMUzB0TFhaMGFtb3lOMEZCUVVGQlIxbEpiMnhSUVhZellXMUJFZ1ZFVERJMk5Cb0xDTURLQmhBQ0dnTlZVMFE0SEhEQXlnWT0iLFtbIkpGSyIsIjIwMjQtMDUtMTUiLCJDREciLG51bGwsIkRMIiwiMjY0Il1dXQ=="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 710,
+    "price_level": "typical",
+    "typical_price_range": [540, 930],
+    "price_history": [
+      [1706590800, 645],
+      [1706677200, 645],
+      [1706763600, 645],
+      [1706850000, 645],
+      [1706936400, 645],
+      [1707022800, 644],
+      [1707109200, 640],
+      [1707195600, 641],
+      [1707282000, 638],
+      [1707368400, 644],
+      [1707454800, 645],
+      [1707541200, 645],
+      [1707627600, 645],
+      [1707714000, 626],
+      [1707800400, 622],
+      [1707886800, 622],
+      [1707973200, 490],
+      [1708059600, 490],
+      [1708146000, 462],
+      [1708232400, 491],
+      [1708318800, 491],
+      [1708405200, 490],
+      [1708491600, 479],
+      [1708578000, 479],
+      [1708664400, 488],
+      [1708750800, 470],
+      [1708837200, 469],
+      [1708923600, 469],
+      [1709010000, 505],
+      [1709096400, 545],
+      [1709182800, 415],
+      [1709269200, 415],
+      [1709355600, 415],
+      [1709442000, 425],
+      [1709528400, 435],
+      [1709614800, 450],
+      [1709701200, 510],
+      [1709787600, 500],
+      [1709874000, 501],
+      [1709960400, 531],
+      [1710046800, 531],
+      [1710129600, 514],
+      [1710216000, 513],
+      [1710302400, 422],
+      [1710388800, 419],
+      [1710475200, 401],
+      [1710561600, 418],
+      [1710648000, 424],
+      [1710734400, 545],
+      [1710820800, 550],
+      [1710907200, 550],
+      [1710993600, 550],
+      [1711080000, 549],
+      [1711166400, 550],
+      [1711252800, 550],
+      [1711339200, 570],
+      [1711425600, 690],
+      [1711512000, 690],
+      [1711598400, 690],
+      [1711684800, 644],
+      [1711771200, 710]
+    ]
+  }
+}

@@ -1,0 +1,1163 @@
+{
+  "search_metadata": {
+    "id": "6608beaeef7ddac6bbf87e53",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d834dc95a6f6c672/6608beaeef7ddac6bbf87e53.json",
+    "created_at": "2024-03-31 01:38:54 UTC",
+    "processed_at": "2024-03-31 01:38:54 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&q=Flights+to+NBO+from+DEN+on+2024-05-15+through+2024-05-24",
+    "raw_html_file": "https://serpapi.com/searches/d834dc95a6f6c672/6608beaeef7ddac6bbf87e53.html",
+    "prettify_html_file": "https://serpapi.com/searches/d834dc95a6f6c672/6608beaeef7ddac6bbf87e53.prettify",
+    "total_time_taken": 1.01
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "departure_id": "DEN",
+    "arrival_id": "NBO",
+    "outbound_date": "2024-05-15",
+    "return_date": "2024-05-24",
+    "currency": "USD"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 13:01"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2024-05-15 16:30"
+          },
+          "duration": 149,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2832",
+          "ticket_also_sold_by": ["British Airways"],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 103 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2024-05-15 18:00"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2024-05-16 07:50"
+          },
+          "duration": 470,
+          "airplane": "Boeing 787",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 86",
+          "ticket_also_sold_by": ["British Airways"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 462 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2024-05-16 09:45"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-16 20:30"
+          },
+          "duration": 525,
+          "airplane": "Airbus A350",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 65",
+          "ticket_also_sold_by": ["American"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 389 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 90,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        },
+        {
+          "duration": 115,
+          "name": "Heathrow Airport",
+          "id": "LHR"
+        }
+      ],
+      "total_duration": 1349,
+      "carbon_emissions": {
+        "this_flight": 955000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": -19
+      },
+      "price": 1190,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEJCUVRJNE16SjhRVUU0Tm54Q1FUWTFHZ3NJaUtFSEVBSWFBMVZUUkRnY2NJaWhCdz09IixbWyJERU4iLCIyMDI0LTA1LTE1IiwiT1JEIixudWxsLCJBQSIsIjI4MzIiXSxbIk9SRCIsIjIwMjQtMDUtMTUiLCJMSFIiLG51bGwsIkFBIiwiODYiXSxbIkxIUiIsIjIwMjQtMDUtMTYiLCJOQk8iLG51bGwsIkJBIiwiNjUiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 23:59"
+          },
+          "arrival_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2024-05-16 05:21"
+          },
+          "duration": 202,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 400",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 178 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2024-05-16 17:15"
+          },
+          "arrival_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 07:20"
+          },
+          "duration": 485,
+          "airplane": "Boeing 777",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 989",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 494 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 11:30"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-17 21:20"
+          },
+          "duration": 530,
+          "airplane": "Airbus A340",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 590",
+          "ticket_also_sold_by": ["United"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 612 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 714,
+          "name": "Dulles International Airport",
+          "id": "IAD"
+        },
+        {
+          "duration": 250,
+          "name": "Frankfurt Airport",
+          "id": "FRA"
+        }
+      ],
+      "total_duration": 2181,
+      "carbon_emissions": {
+        "this_flight": 1287000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": 9
+      },
+      "price": 1241,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEZWUVRRd01IeFZRVGs0T1h4TVNEVTVNQm9MQ0xESkJ4QUNHZ05WVTBRNEhIQ3d5UWM9IixbWyJERU4iLCIyMDI0LTA1LTE1IiwiSUFEIixudWxsLCJVQSIsIjQwMCJdLFsiSUFEIiwiMjAyNC0wNS0xNiIsIkZSQSIsbnVsbCwiVUEiLCI5ODkiXSxbIkZSQSIsIjIwMjQtMDUtMTciLCJOQk8iLG51bGwsIkxIIiwiNTkwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 06:10"
+          },
+          "arrival_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 12:09"
+          },
+          "duration": 239,
+          "airplane": "Airbus A321neo",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1359",
+          "ticket_also_sold_by": ["Kenya Airways"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 183 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2024-05-15 13:45"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-16 10:45"
+          },
+          "duration": 840,
+          "airplane": "Boeing 787",
+          "airline": "Kenya Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KQ.png",
+          "travel_class": "Economy",
+          "flight_number": "KQ 3",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 918 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 96,
+          "name": "John F. Kennedy International Airport",
+          "id": "JFK"
+        }
+      ],
+      "total_duration": 1175,
+      "carbon_emissions": {
+        "this_flight": 1102000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": -6
+      },
+      "price": 1449,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFZ3BFVERFek5UbDhTMUV6R2dzSSt1c0lFQUlhQTFWVFJEZ2NjUHJyQ0E9PSIsW1siREVOIiwiMjAyNC0wNS0xNSIsIkpGSyIsbnVsbCwiREwiLCIxMzU5Il0sWyJKRksiLCIyMDI0LTA1LTE1IiwiTkJPIixudWxsLCJLUSIsIjMiXV1d"
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 17:34"
+          },
+          "arrival_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2024-05-15 22:48"
+          },
+          "duration": 194,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1094",
+          "ticket_also_sold_by": ["Air Canada"],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 183 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2024-05-16 16:15"
+          },
+          "arrival_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 06:30"
+          },
+          "duration": 495,
+          "airplane": "Airbus A330",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 840",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 443 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 11:30"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-17 21:20"
+          },
+          "duration": 530,
+          "airplane": "Airbus A340",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 590",
+          "ticket_also_sold_by": ["Air Canada"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 612 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 1047,
+          "name": "Toronto Pearson International Airport",
+          "id": "YYZ",
+          "overnight": true
+        },
+        {
+          "duration": 300,
+          "name": "Frankfurt Airport",
+          "id": "FRA"
+        }
+      ],
+      "total_duration": 2566,
+      "carbon_emissions": {
+        "this_flight": 1240000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": 5
+      },
+      "price": 1327,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEpWUVRFd09UUjhRVU00TkRCOFRFZzFPVEFhQ3dpOGpBZ1FBaG9EVlZORU9CeHd2SXdJIixbWyJERU4iLCIyMDI0LTA1LTE1IiwiWVlaIixudWxsLCJVQSIsIjEwOTQiXSxbIllZWiIsIjIwMjQtMDUtMTYiLCJGUkEiLG51bGwsIkFDIiwiODQwIl0sWyJGUkEiLCIyMDI0LTA1LTE3IiwiTkJPIixudWxsLCJMSCIsIjU5MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 23:59"
+          },
+          "arrival_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2024-05-16 05:35"
+          },
+          "duration": 216,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2191",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 165 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2024-05-16 17:35"
+          },
+          "arrival_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 07:30"
+          },
+          "duration": 475,
+          "airplane": "Airbus A330",
+          "airline": "Discover Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/4Y.png",
+          "travel_class": "Economy",
+          "flight_number": "4Y 51",
+          "ticket_also_sold_by": ["SWISS"],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 520 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 11:30"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-17 21:20"
+          },
+          "duration": 530,
+          "airplane": "Airbus A340",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 590",
+          "ticket_also_sold_by": ["SWISS"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 612 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 720,
+          "name": "Philadelphia International Airport",
+          "id": "PHL"
+        },
+        {
+          "duration": 240,
+          "name": "Frankfurt Airport",
+          "id": "FRA"
+        }
+      ],
+      "total_duration": 2181,
+      "carbon_emissions": {
+        "this_flight": 1299000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": 10
+      },
+      "price": 1364,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEZWUVRJeE9URjhORmsxTVh4TVNEVTVNQm9MQ0o2cENCQUNHZ05WVTBRNEhIQ2VxUWc9IixbWyJERU4iLCIyMDI0LTA1LTE1IiwiUEhMIixudWxsLCJVQSIsIjIxOTEiXSxbIlBITCIsIjIwMjQtMDUtMTYiLCJGUkEiLG51bGwsIjRZIiwiNTEiXSxbIkZSQSIsIjIwMjQtMDUtMTciLCJOQk8iLG51bGwsIkxIIiwiNTkwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 23:59"
+          },
+          "arrival_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2024-05-16 05:56"
+          },
+          "duration": 237,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 589",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 183 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "time": "2024-05-16 18:00"
+          },
+          "arrival_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 07:20"
+          },
+          "duration": 440,
+          "airplane": "Airbus A340",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 423",
+          "ticket_also_sold_by": ["United"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 542 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-05-17 11:30"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-17 21:20"
+          },
+          "duration": 530,
+          "airplane": "Airbus A340",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 590",
+          "ticket_also_sold_by": ["United"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 612 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 724,
+          "name": "Boston Logan International Airport",
+          "id": "BOS"
+        },
+        {
+          "duration": 250,
+          "name": "Frankfurt Airport",
+          "id": "FRA"
+        }
+      ],
+      "total_duration": 2181,
+      "carbon_emissions": {
+        "this_flight": 1338000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": 14
+      },
+      "price": 1531,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEZWUVRVNE9YeE1TRFF5TTN4TVNEVTVNQm9MQ05PckNSQUNHZ05WVTBRNEhIRFRxd2s9IixbWyJERU4iLCIyMDI0LTA1LTE1IiwiQk9TIixudWxsLCJVQSIsIjU4OSJdLFsiQk9TIiwiMjAyNC0wNS0xNiIsIkZSQSIsbnVsbCwiTEgiLCI0MjMiXSxbIkZSQSIsIjIwMjQtMDUtMTciLCJOQk8iLG51bGwsIkxIIiwiNTkwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 20:20"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2024-05-16 12:20"
+          },
+          "duration": 540,
+          "airplane": "Boeing 787",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 262",
+          "ticket_also_sold_by": ["Austrian"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 451 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2024-05-16 15:00"
+          },
+          "arrival_airport": {
+            "name": "Vienna International Airport",
+            "id": "VIE",
+            "time": "2024-05-16 18:20"
+          },
+          "duration": 140,
+          "airplane": "Airbus A320neo",
+          "airline": "Austrian",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+          "travel_class": "Economy",
+          "flight_number": "OS 462",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 102 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Vienna International Airport",
+            "id": "VIE",
+            "time": "2024-05-16 22:40"
+          },
+          "arrival_airport": {
+            "name": "Bole Addis Ababa International Airport",
+            "id": "ADD",
+            "time": "2024-05-17 06:00"
+          },
+          "duration": 380,
+          "airplane": "Boeing 777",
+          "airline": "Ethiopian",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
+          "travel_class": "Economy",
+          "flight_number": "ET 731",
+          "ticket_also_sold_by": ["Austrian"],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 398 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Bole Addis Ababa International Airport",
+            "id": "ADD",
+            "time": "2024-05-17 10:45"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-17 13:10"
+          },
+          "duration": 145,
+          "airplane": "Boeing 777",
+          "airline": "Ethiopian",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/ET.png",
+          "travel_class": "Economy",
+          "flight_number": "ET 318",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "Some seats with power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 134 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 160,
+          "name": "Heathrow Airport",
+          "id": "LHR"
+        },
+        {
+          "duration": 260,
+          "name": "Vienna International Airport",
+          "id": "VIE"
+        },
+        {
+          "duration": 285,
+          "name": "Bole Addis Ababa International Airport",
+          "id": "ADD"
+        }
+      ],
+      "total_duration": 1910,
+      "carbon_emissions": {
+        "this_flight": 1088000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": -7
+      },
+      "price": 1535,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaGRWUVRJMk1ueFBVelEyTW54RlZEY3pNWHhGVkRNeE9Cb0xDTVN1Q1JBQ0dnTlZVMFE0SEhERXJnaz0iLFtbIkRFTiIsIjIwMjQtMDUtMTUiLCJMSFIiLG51bGwsIlVBIiwiMjYyIl0sWyJMSFIiLCIyMDI0LTA1LTE2IiwiVklFIixudWxsLCJPUyIsIjQ2MiJdLFsiVklFIiwiMjAyNC0wNS0xNiIsIkFERCIsbnVsbCwiRVQiLCI3MzEiXSxbIkFERCIsIjIwMjQtMDUtMTciLCJOQk8iLG51bGwsIkVUIiwiMzE4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 10:06"
+          },
+          "arrival_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2024-05-15 15:40"
+          },
+          "duration": 214,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1617",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 183 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2024-05-15 18:30"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2024-05-16 07:30"
+          },
+          "duration": 480,
+          "airplane": "Boeing 777",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 730",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 498 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2024-05-16 09:45"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-16 20:30"
+          },
+          "duration": 525,
+          "airplane": "Airbus A350",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 65",
+          "ticket_also_sold_by": ["American"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 389 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 170,
+          "name": "Charlotte Douglas International Airport",
+          "id": "CLT"
+        },
+        {
+          "duration": 135,
+          "name": "Heathrow Airport",
+          "id": "LHR"
+        }
+      ],
+      "total_duration": 1524,
+      "carbon_emissions": {
+        "this_flight": 1071000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": -9
+      },
+      "price": 1563,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEZCUVRFMk1UZDhRVUUzTXpCOFFrRTJOUm9MQ083RUNSQUNHZ05WVTBRNEhIRHV4QWs9IixbWyJERU4iLCIyMDI0LTA1LTE1IiwiQ0xUIixudWxsLCJBQSIsIjE2MTciXSxbIkNMVCIsIjIwMjQtMDUtMTUiLCJMSFIiLG51bGwsIkFBIiwiNzMwIl0sWyJMSFIiLCIyMDI0LTA1LTE2IiwiTkJPIixudWxsLCJCQSIsIjY1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 12:52"
+          },
+          "arrival_airport": {
+            "name": "Salt Lake City International Airport",
+            "id": "SLC",
+            "time": "2024-05-15 14:25"
+          },
+          "duration": 93,
+          "airplane": "Airbus A319",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2876",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Salt Lake City International Airport",
+            "id": "SLC",
+            "time": "2024-05-15 15:25"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 09:30"
+          },
+          "duration": 605,
+          "airplane": "Airbus A330-900neo",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 220",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 408 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-05-16 11:00"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-16 20:40"
+          },
+          "duration": 520,
+          "airplane": "Boeing 787",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 814",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 446 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 60,
+          "name": "Salt Lake City International Airport",
+          "id": "SLC"
+        },
+        {
+          "duration": 90,
+          "name": "Paris Charles de Gaulle Airport",
+          "id": "CDG"
+        }
+      ],
+      "total_duration": 1368,
+      "carbon_emissions": {
+        "typical_for_this_route": 1176000
+      },
+      "price": 1578,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEpFVERJNE56WjhSRXd5TWpCOFFVWTRNVFFhQ3dqZTBBa1FBaG9EVlZORU9CeHczdEFKIixbWyJERU4iLCIyMDI0LTA1LTE1IiwiU0xDIixudWxsLCJETCIsIjI4NzYiXSxbIlNMQyIsIjIwMjQtMDUtMTUiLCJDREciLG51bGwsIkRMIiwiMjIwIl0sWyJDREciLCIyMDI0LTA1LTE2IiwiTkJPIixudWxsLCJBRiIsIjgxNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2024-05-15 15:10"
+          },
+          "arrival_airport": {
+            "name": "Minneapolis–Saint Paul International Airport",
+            "id": "MSP",
+            "time": "2024-05-15 18:08"
+          },
+          "duration": 118,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1206",
+          "ticket_also_sold_by": ["KLM"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 104 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Minneapolis–Saint Paul International Airport",
+            "id": "MSP",
+            "time": "2024-05-15 19:55"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2024-05-16 11:20"
+          },
+          "duration": 505,
+          "airplane": "Airbus A330",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 162",
+          "ticket_also_sold_by": ["KLM"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 473 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2024-05-16 12:30"
+          },
+          "arrival_airport": {
+            "name": "Jomo Kenyatta International Airport",
+            "id": "NBO",
+            "time": "2024-05-16 21:55"
+          },
+          "duration": 505,
+          "airplane": "Boeing 787-10",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 565",
+          "ticket_also_sold_by": ["Delta"],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 406 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 107,
+          "name": "Minneapolis–Saint Paul International Airport",
+          "id": "MSP"
+        },
+        {
+          "duration": 70,
+          "name": "Amsterdam Airport Schiphol",
+          "id": "AMS"
+        }
+      ],
+      "total_duration": 1305,
+      "carbon_emissions": {
+        "this_flight": 985000,
+        "typical_for_this_route": 1176000,
+        "difference_percent": -16
+      },
+      "price": 1584,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "departure_token": "WyJDalJJYlhkNFJXRnVSbVZ6TjBsQlNsWjNiM2RDUnkwdExTMHRMUzB0ZFdwaWFYSXhNVUZCUVVGQlIxbEpkbkU0UVZVMFlsRkJFaEpFVERFeU1EWjhSRXd4TmpKOFMwdzFOalVhQ3dqbTFBa1FBaG9EVlZORU9CeHc1dFFKIixbWyJERU4iLCIyMDI0LTA1LTE1IiwiTVNQIixudWxsLCJETCIsIjEyMDYiXSxbIk1TUCIsIjIwMjQtMDUtMTUiLCJBTVMiLG51bGwsIkRMIiwiMTYyIl0sWyJBTVMiLCIyMDI0LTA1LTE2IiwiTkJPIixudWxsLCJLTCIsIjU2NSJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 1190,
+    "price_level": "typical",
+    "typical_price_range": [1100, 1650],
+    "price_history": [
+      [1706598000, 1242],
+      [1706684400, 1190],
+      [1706770800, 1190],
+      [1706857200, 1190],
+      [1706943600, 1190],
+      [1707030000, 1190],
+      [1707116400, 1190],
+      [1707202800, 1190],
+      [1707289200, 1189],
+      [1707375600, 1189],
+      [1707462000, 1190],
+      [1707548400, 1190],
+      [1707634800, 1190],
+      [1707721200, 1190],
+      [1707807600, 1190],
+      [1707894000, 1242],
+      [1707980400, 1190],
+      [1708066800, 1189],
+      [1708153200, 1189],
+      [1708239600, 1189],
+      [1708326000, 1189],
+      [1708412400, 1189],
+      [1708498800, 1189],
+      [1708585200, 1190],
+      [1708671600, 1190],
+      [1708758000, 1190],
+      [1708844400, 1190],
+      [1708930800, 1190],
+      [1709017200, 1190],
+      [1709103600, 1244],
+      [1709190000, 1200],
+      [1709276400, 1200],
+      [1709362800, 1190],
+      [1709449200, 1190],
+      [1709535600, 1190],
+      [1709622000, 1190],
+      [1709708400, 1190],
+      [1709794800, 1242],
+      [1709881200, 1216],
+      [1709967600, 1216],
+      [1710054000, 1162],
+      [1710136800, 1216],
+      [1710223200, 1242],
+      [1710309600, 1201],
+      [1710396000, 1191],
+      [1710482400, 1191],
+      [1710568800, 1191],
+      [1710655200, 1191],
+      [1710741600, 1191],
+      [1710828000, 1190],
+      [1710914400, 1190],
+      [1711000800, 1190],
+      [1711087200, 1190],
+      [1711173600, 1190],
+      [1711260000, 1190],
+      [1711346400, 1190],
+      [1711432800, 1189],
+      [1711519200, 1190],
+      [1711605600, 1190],
+      [1711692000, 1190],
+      [1711778400, 1190]
+    ]
+  }
+}
